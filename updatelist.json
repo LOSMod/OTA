@@ -1,22 +1,24 @@
 {
-  "response": [
-	{
-		"maintainer": "Sawaty Mensky (SawaMEN)",
-		"oem": "Poco",
-		"device": "Poco X3",
-		"filename": "lineage-18.1-20210228-UNOFFICIAL-surya.zip",
-		"download": "http://sawamen.fun/losupdate/lineage-18.1-20210228-UNOFFICIAL-surya.zip",
-		"timestamp": 1614483383,
-		"version": "18.1",
-		"buildtype": "UNOFFICIAL",
-		"forum": "https://forum.xda-developers.com/t/rom-unofficial-11-lineageos-18-1-for-poco-x3-nfc-surya.4221645/",
-		"gapps": "https://sourceforge.net/projects/opengapps/files/arm64/test/",
-		"firmware": "",
-		"modem": "",
-		"bootloader": "",
-		"recovery": "",
-		"paypal": "",
-		"telegram": "https://t.me/los_surya"
-	}
-  ]
+	"response": [
+		{
+			"maintainer": "Савватий Менский (SawaMEN)",
+			"oem": "Poco",
+			"device": "POCO X3 (NFC)",
+			"filename": "lineage-18.1-20210308-UNOFFICIAL-surya.zip",
+			"download": "https://sawamen.fun/Download/lineage-18.1-20210308-UNOFFICIAL-surya.zip",
+			"timestamp": 1615215320,
+			"md5": "59f11bcd75c2a06a0a464b92d62b02e5",
+			"size": 758849384,
+			"version": "18.1",
+			"buildtype": "unofficial",
+			"forum": "https://forum.xda-developers.com/t/rom-unofficial-11-lineageos-18-1-for-poco-x3-nfc-surya.4221645/",
+			"gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/BETA/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/los_surya"
+		}
+	]
 }
