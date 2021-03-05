@@ -1,1 +1,22 @@
-{"response":[{"datetime":1579982830,"filename":"AOSiP-9.0-Pizza-nitrogen-20200125.zip","id":"E73B0C217D431C13533C9348E221692D8FA6581BA02EB0B546382EC9DA234C4C","romtype":"pizza","size":716964382,"url":"https://github.com/Black-Seraph/device_xiaomi_nitrogen/releases/download/20200125-pie-aosip/AOSiP-9.0-Pizza-nitrogen-20200125.zip","version":"9.0"}]}
+{
+  "response": [
+	{
+		"maintainer": "Sawaty Mensky (SawaMEN)",
+		"oem": "Poco",
+		"device": "Poco X3",
+		"filename": "lineage-18.1-20210228-UNOFFICIAL-surya.zip",
+		"download": "http://sawamen.fun/losupdate/lineage-18.1-20210228-UNOFFICIAL-surya.zip",
+		"timestamp": 1614483383,
+		"version": "18.1",
+		"buildtype": "UNOFFICIAL",
+		"forum": "https://forum.xda-developers.com/t/rom-unofficial-11-lineageos-18-1-for-poco-x3-nfc-surya.4221645/",
+		"gapps": "https://sourceforge.net/projects/opengapps/files/arm64/test/",
+		"firmware": "",
+		"modem": "",
+		"bootloader": "",
+		"recovery": "",
+		"paypal": "",
+		"telegram": "https://t.me/los_surya"
+	}
+  ]
+}
